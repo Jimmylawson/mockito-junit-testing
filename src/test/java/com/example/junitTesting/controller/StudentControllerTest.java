@@ -1,7 +1,6 @@
-package com.example.junitTesting.ttd;
+package com.example.junitTesting.controller;
 
 
-import com.example.junitTesting.controller.studentController;
 import com.example.junitTesting.entity.Student;
 import com.example.junitTesting.service.StudentService;
 import org.junit.jupiter.api.Test;
